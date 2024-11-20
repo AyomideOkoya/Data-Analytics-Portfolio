@@ -1,1 +1,65 @@
-# Data-Analytics-Portfolio
+## **Welcome**
+Hi there! I'm Ayomide, a data enthusiast with a passion for analytics, visualization, and storytelling. Whether cleaning raw datasets or designing dashboards, I thrive on uncovering meaningful insights that drive informed decisions. 
+
+This portfolio showcases my journey, projects, and skills as a data analyst. Explore my work and feel free to connect!
+
+---
+
+## **Portfolio at a Glance**
+| **Project**                  | **Technology**        | **Skills Demonstrated**                  | **Explore**                                                                                          |
+|------------------------------|-----------------------|------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Nashville Housing Cleaning  | SQL                  | Data Cleaning, Preprocessing             | [Code](SQL_Projects/Nashville_Housing_Cleaning.sql)                                                 |
+| COVID-19 Data Analysis      | SQL                  | Exploratory Analysis, Joins, CTEs        | [Code](SQL_Projects/COVID_Exploration.sql)                                                         |
+| Movie Success Analysis      | Python               | Data Visualization, Hypothesis Testing   | [Jupyter Notebook](Python_Projects/Movie_Success_Analysis.ipynb)                                    |
+| Sales Insights Dashboard    | Tableau              | Data Visualization, Storytelling         | [Interactive Dashboard](https://public.tableau.com/views/Tech_Store_Sales_Insights) (absolute link) |
+| Pokémon Data Exploration    | R                    | Data Wrangling, Predictive Analysis      | [Code](R_Projects/Pokemon_Data_Exploration.R)                                                      |
+
+> **Note**: Click the links to dive deeper into my projects.  
+
+---
+
+## **My Skills**
+- **Data Analysis:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).  
+- **Data Visualization:** Power BI, Tableau, Excel.  
+- **Database Management:** MySQL, PostgreSQL.  
+- **Soft Skills:** Critical Thinking, Problem Solving, Storytelling.
+
+---
+
+## **Project Highlights**
+
+### 1. **COVID-19 Data Exploration**
+📂 **File**: [`COVID_Exploration.sql`](SQL_Projects/COVID_Exploration.sql)  
+🔗 **Project Section**: [Details here](#covid-19-data-exploration)  
+
+- **Goal:** Analyze global COVID-19 data to explore trends in cases, vaccinations, and deaths.  
+- **Process:** Cleaned data, identified trends using joins, and summarized results.  
+- **Results:** Generated key insights into the impact of vaccination efforts.  
+- **Technology:** SQL Server.  
+
+---
+
+### 2. **Tech Store Sales Analysis**
+📂 **File**: [`Tech_Store_Sales_Analysis.ipynb`](Python_Projects/Tech_Store_Sales_Analysis.ipynb)  
+🔗 **Interactive Dashboard**: [View Dashboard](https://public.tableau.com/views/Tech_Store_Sales_Insights)  
+
+- **Goal:** Extract insights from sales data to identify performance patterns and improvement opportunities.  
+- **Process:** Conducted EDA, visualized key trends, and analyzed seasonal performance.  
+- **Results:** Optimized sales strategies based on visualizations.  
+- **Technology:** Tableau, Python.  
+
+---
+
+## **Why Choose Me?**
+📊 **Curious Analyst:** I approach problems with curiosity and creativity.  
+📈 **Data Storyteller:** I craft stories that make complex data intuitive.  
+🔍 **Lifelong Learner:** I’m always expanding my toolkit to adapt to evolving trends.  
+
+---
+
+## **Contact Me**
+| **Platform**    | **Details**                                             |
+|------------------|---------------------------------------------------------|
+| LinkedIn         | [@OkoyaAyomide](https://linkedin.com/in/okoya-ayomide)  |
+| GitHub           | [Portfolio Repository](https://github.com/okoyaayomide) |
+| Email            | okoya.ayomide@email.com                                |
