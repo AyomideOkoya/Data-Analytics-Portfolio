@@ -1,7 +1,7 @@
 ## **Welcome**
-Hi there! I'm Ayomide, a data enthusiast with a passion for analytics, visualization, and storytelling. Whether cleaning raw datasets or designing dashboards, I thrive on uncovering meaningful insights that drive informed decisions. 
+Hello! I’m Ayomide, a data enthusiast with a clear focus on analytics, visualization, and storytelling. I specialize in transforming raw datasets into insightful and actionable information while designing impactful dashboards. I thoroughly analyze data to uncover hidden patterns and trends, consistently driving informed and decisive action. Let’s leverage data to fuel your success!
 
-This portfolio showcases my journey, projects, and skills as a data analyst. Explore my work and feel free to connect!
+This portfolio presents a comprehensive overview of my professional journey, projects, and competencies as a data analyst. I invite you to explore my work and welcome any opportunities for connection or collaboration.
 
 ---
 
