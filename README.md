@@ -8,7 +8,7 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ## **Portfolio at a Glance**
 | **Project**                  | **Technology**        | **Skills Demonstrated**                  | **Explore**                                                                                          |
 |------------------------------|-----------------------|------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Nashville Housing Cleaning  | SQL                  | Data Cleaning, Preprocessing             | [Code](SQL_Projects/Nashville_Housing_Cleaning.sql)                                                 |
+| Netflix Movies and TV Shows  | SQL                  | Data Cleaning, Preprocessing             | [Code](SQL_Projects/Nashville_Housing_Cleaning.sql)                                                 |
 | COVID-19 Data Analysis      | SQL                  | Exploratory Analysis, Joins, CTEs        | [Code](SQL_Projects/COVID_Exploration.sql)                                                         |
 | Movie Success Analysis      | Python               | Data Visualization, Hypothesis Testing   | [Jupyter Notebook](Python_Projects/Movie_Success_Analysis.ipynb)                                    |
 | Sales Insights Dashboard    | Tableau              | Data Visualization, Storytelling         | [Interactive Dashboard](https://public.tableau.com/views/Tech_Store_Sales_Insights) (absolute link) |
