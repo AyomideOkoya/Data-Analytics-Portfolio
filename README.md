@@ -8,7 +8,7 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ## **Portfolio at a Glance**
 | **Project**                  | **Technology**        | **Skills Demonstrated**                  | **Explore**                                                                                          |
 |------------------------------|-----------------------|------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Cookie Sales Analysis  | Excel, Power Bi                  | Data Cleaning, Preprocessing             | [Data cleaning and Interation Process](https://github.com/AyomideOkoya/Data_Cleaning_and_Interation_Process/blob/c10896a400530cc05fe7a9330a8a97784a7be4fc/README.md)                                                 |
+| Cookie Sales Analysis  | Excel, Power Bi                  | Data Cleaning, Preprocessing             | [Data cleaning and integration Process](https://github.com/AyomideOkoya/Data_Cleaning_and_Interation_Process/blob/c10896a400530cc05fe7a9330a8a97784a7be4fc/README.md)                                                 |
 | COVID-19 Data Analysis      | SQL                  | Exploratory Analysis, Joins, CTEs        | [Code](SQL_Projects/COVID_Exploration.sql)                                                         |
 | Movie Success Analysis      | Python               | Data Visualization, Hypothesis Testing   | [Jupyter Notebook](Python_Projects/Movie_Success_Analysis.ipynb)                                    |
 | Sales Insights Dashboard    | Tableau              | Data Visualization, Storytelling         | [Interactive Dashboard](https://public.tableau.com/views/Tech_Store_Sales_Insights) (absolute link) |
