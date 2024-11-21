@@ -1,9 +1,8 @@
-Here’s a creative and innovative take for your Data Analyst portfolio README file. This design includes relative and absolute links in an organized and visually appealing manner, catering to your personal touch.
-
-## Okoya Ayomide - Data Analyst Portfolio
-"Transforming data into actionable insights."
+# Okoya Ayomide - Data Analyst Portfolio
+**Transforming data into actionable insights**
 
 ---
+
 ## **Welcome**
 Hello! I’m Ayomide, a data enthusiast with a clear focus on analytics, visualization, and storytelling. I specialize in transforming raw datasets into insightful and actionable information while designing impactful dashboards. I thoroughly analyze data to uncover hidden patterns and trends, consistently driving informed and decisive action. Let’s leverage data to fuel your success!
 
