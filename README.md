@@ -1,5 +1,5 @@
 # Okoya Ayomide - Data Analyst Portfolio
-**Transforming data into actionable insights**
+**Transforming data into actionable insights*
 
 ---
 
