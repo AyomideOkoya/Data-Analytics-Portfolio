@@ -24,9 +24,9 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ---
 
 ## **My Skills**
-- **Data Analysis:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).  
+- **Data Analysis:** SQL, Excel.  
 - **Data Visualization:** Power BI, Tableau, Excel.  
-- **Database Management:** MySQL, PostgreSQL.  
+- **Database Management:** MySQL.  
 - **Soft Skills:** Critical Thinking, Problem Solving, Storytelling.
 
 ---
