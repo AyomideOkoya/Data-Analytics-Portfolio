@@ -15,9 +15,9 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 |------------------------------|-----------------------|------------------------------------------|------------------------------------------------------------------------------------------------------|
 | Cookie Sales Analysis  | Excel, Power Bi                  | Data Cleaning, Integration and Visualization             | [Data cleaning and integration Process](https://github.com/AyomideOkoya/Data_Cleaning_and_Integration_Process/blob/0cf55ad1971d5cbf268de19cfd1273f78072d6f0/README.md)                                                 |
 |    Phone Brand Sales Analysis   | Tableau                  | Analytical Skills, SQL for Data Preparation, Data Visualization        | [Data Cleaning Process](https://github.com/AyomideOkoya/Phone-Brand-Sales-Analysis-Data-Cleaning/blob/f1d2eb36785bf378f9ef2ad30c43f2e87ac663e0/README.md)                                                         |
-| Movie Success Analysis      | Python               | Data Visualization, Hypothesis Testing   | [Jupyter Notebook](Python_Projects/Movie_Success_Analysis.ipynb)                                    |
-| Sales Insights Dashboard    | Tableau              | Data Visualization, Storytelling         | [Interactive Dashboard](https://public.tableau.com/views/Tech_Store_Sales_Insights) (absolute link) |
-| Pokémon Data Exploration    | R                    | Data Wrangling, Predictive Analysis      | [Code](R_Projects/Pokemon_Data_Exploration.R)                                                      |
+| COVID-19 Data Exploration      |                | Data Visualization, Hypothesis Testing   | [In progress](Python_Projects/Movie_Success_Analysis.ipynb)                                    |
+| Tech Store Sales Analysis    | Tableau              | Data Visualization, Storytelling         | [In progress](https://public.tableau.com/views/Tech_Store_Sales_Insights) (absolute link) |
+|Titanic - Machine Learning from Disaster    |                     | Data Wrangling, Predictive Analysis      | [In progress](R_Projects/Pokemon_Data_Exploration.R)                                                      |
 
 > **Note**: Click the links to dive deeper into my projects.  
 
@@ -34,8 +34,8 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ## **Project Highlights**
 
 ### 1. **COVID-19 Data Exploration**
-📂 **File**: [`COVID_Exploration.sql`](SQL_Projects/COVID_Exploration.sql)  
-🔗 **Project Section**: [Details here](#covid-19-data-exploration)  
+📂 **File**: [`COVID_Exploration.sql`](In progress)  
+🔗 **Project Section**: [Details here](In progres)  
 
 - **Goal:** Analyze global COVID-19 data to explore trends in cases, vaccinations, and deaths.  
 - **Process:** Cleaned data, identified trends using joins, and summarized results.  
@@ -45,8 +45,8 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ---
 
 ### 2. **Tech Store Sales Analysis**
-📂 **File**: [`Tech_Store_Sales_Analysis.ipynb`](Python_Projects/Tech_Store_Sales_Analysis.ipynb)  
-🔗 **Interactive Dashboard**: [View Dashboard](https://public.tableau.com/views/Tech_Store_Sales_Insights)  
+📂 **File**: [`Tech_Store_Sales_Analysis.ipynb`](In progress)  
+🔗 **Interactive Dashboard**: [View Dashboard](In progress)  
 
 - **Goal:** Extract insights from sales data to identify performance patterns and improvement opportunities.  
 - **Process:** Conducted EDA, visualized key trends, and analyzed seasonal performance.  
@@ -65,6 +65,6 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ## **Contact Me**
 | **Platform**    | **Details**                                             |
 |------------------|---------------------------------------------------------|
-| LinkedIn         | [@OkoyaAyomide](https://linkedin.com/in/okoya-ayomide)  |
+| LinkedIn         | [@OkoyaAyomide](https://linkedin.com/ayomide-okoya)  |
 | GitHub           | [Portfolio Repository](https://github.com/okoyaayomide) |
-| Email            | okoya.ayomide@email.com                                |
+| Email            | ayookoya19@gmail.com                                |
