@@ -34,7 +34,7 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ## **Project Highlights**
 
 ### 1. **COVID-19 Data Exploration**
-📂 **File**: [`COVID_Exploration.sql`](In progress)  
+📂 **File**: [COVID_Exploration.sql](In progress)  
 🔗 **Project Section**: [Details here](In progres)  
 
 - **Goal:** Analyze global COVID-19 data to explore trends in cases, vaccinations, and deaths.  
@@ -45,7 +45,7 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 ---
 
 ### 2. **Tech Store Sales Analysis**
-📂 **File**: [`Tech_Store_Sales_Analysis.ipynb`](In progress)  
+📂 **File**: [Tech_Store_Sales_Analysis.ipynb](In progress)  
 🔗 **Interactive Dashboard**: [View Dashboard](In progress)  
 
 - **Goal:** Extract insights from sales data to identify performance patterns and improvement opportunities.  
