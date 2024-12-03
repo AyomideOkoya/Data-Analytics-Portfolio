@@ -66,5 +66,5 @@ This portfolio presents a comprehensive overview of my professional journey, pro
 | **Platform**    | **Details**                                             |
 |------------------|---------------------------------------------------------|
 | LinkedIn         | [@OkoyaAyomide](https://linkedin.com/ayomide-okoya)  |
-| GitHub           | [Portfolio Repository](https://github.com/okoyaayomide) |
+| GitHub           | [Portfolio Repository](https://github.com/AyomideOkoya) |
 | Email            | ayookoya19@gmail.com                                |
